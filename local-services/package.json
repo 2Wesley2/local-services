@@ -1,0 +1,11 @@
+{
+  "name": "local-services",
+  "version": "0.0.0",
+  "license": "UNLICENSED",
+  "main": "index.js",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "yaml": "^1.10.2"
+  }
+}
